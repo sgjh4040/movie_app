@@ -1,3 +1,4 @@
-# Movie APp 
+# Movie App
+react.js 기반 영화 list 
 
-React JS Fundamentals
+https://sgjh4040.github.io/movie_app/
